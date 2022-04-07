@@ -2,7 +2,9 @@
 
 I'm not a fan of timed coding exercises, especially if they are used to screen job candidates before actually speaking to a hiring manager. I'm sure there are developers without testing anxiety or physical disabilities who can code and test this exercise well within 3 hours.
 
-I found this candidate coding exercise on a public github repo. I don't think that solution would have worked, but this one passes. I coded using NodeJS and Typescript from the PDF coding exercise document, and only glanced at the posted solution.
+I found this candidate coding exercise on a public github repo. I don't think the posted solution would have worked, but this one passes. I coded using NodeJS and Typescript fresh from the PDF coding exercise document.
+
+If there are other HubSpot Candidate Coding Exercises out there (with an API key), I'd like to tackle them and post my solution. 
 
 ## Install Node Modules
 
