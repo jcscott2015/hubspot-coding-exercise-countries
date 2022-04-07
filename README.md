@@ -14,12 +14,12 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in production mode, from the `dist` folder.\
+Runs the app in production mode, from the `dist` folder.
 
 ### `npm run dev`
 
-Runs the app in the developer mode.\
-The page will reload if you make edits.\
+Runs the app in the developer mode.  
+The page will reload if you make edits.  
 You will also see any lint errors in the console.
 
 ### `npm run build`
